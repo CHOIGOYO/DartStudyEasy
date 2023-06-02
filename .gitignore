@@ -16,6 +16,18 @@ migrate_working_dir/
 *.iws
 .idea/
 
+#
+.dart_tool/*
+.android/*
+.ios/*
+.test/*
+.metadata
+analysis_options.yaml
+dartStudyEasy.iml
+pubspec.lock
+pubspec.yaml
+
+
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
